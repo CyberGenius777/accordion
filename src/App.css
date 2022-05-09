@@ -1,0 +1,13 @@
+input {
+  padding: 10px 25px;
+}
+button {
+  border: 1px solid teal;
+  padding: 10px 25px;
+  transition: 0.2s;
+}
+button:hover {
+  background-color: #006363;
+  color: #fff;
+  cursor: pointer;
+}
